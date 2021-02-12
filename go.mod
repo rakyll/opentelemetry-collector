@@ -8,7 +8,7 @@ require (
 	github.com/Shopify/sarama v1.27.2
 	github.com/StackExchange/wmi v0.0.0-20180116203802-5d049714c4a6 // indirect
 	github.com/antonmedv/expr v1.8.9
-	github.com/apache/thrift v0.13.0
+	github.com/apache/thrift v0.14.0
 	github.com/cenkalti/backoff v2.2.1+incompatible
 	github.com/census-instrumentation/opencensus-proto v0.3.0
 	github.com/coreos/go-oidc v2.2.1+incompatible
